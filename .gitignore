@@ -1,0 +1,19 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+*.log
+*.bak
+*.backup
+*.zip
+*.tar.gz
+*.tmp
+*.swp
+
+# Diretórios e arquivos ocultos (opcional para evitar subir configs locais)
+*.DS_Store
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
